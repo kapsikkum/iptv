@@ -1,36 +1,34 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ABC Sydney" tvg-id="ABCTV.au" tvg-logo="https://i.imgur.com/5CVl5EF.png",ABC TV Sydney
 https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:-1 tvg-name="ABC News" tvg-id="ABCN.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/250px-ABC_News_Channel.svg.png",ABC News
+#EXTINF:-1 tvg-name="ABC News" tvg-id="ABCN.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/2560px-ABC_News_Channel.svg.png",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-name="ABC Comedy/Kids" tvg-id="ABCCK.au" tvg-logo="",ABC Comedy/Kids
+#EXTINF:-1 tvg-name="ABC Comedy/Kids" tvg-id="ABCCK.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/ABC_Kids_%282020%29.png/230px-ABC_Kids_%282020%29.png",ABC Comedy/Kids
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/3c7653c38e0e40fbbbaeaefb02ae6fd1/index.m3u8
-#EXTINF:-1 tvg-name="ABC Me" tvg-id="ABCM.au" tvg-logo="",ABC Me
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/c2a88b3fcefb4920b6b52134a453ed9c/index.m3u8
-#EXTINF:-1 tvg-name="Seven Sydney" tvg-id="7SYDNEY.au" tvg-logo="",Seven Sydney
+#EXTINF:-1 tvg-name="ABC Me" tvg-id="ABCME.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/ABC_ME_logo.svg/1200px-ABC_ME_logo.svg.png",ABC Me
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-name="Channel 7" tvg-id="7SYDNEY.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1024px-Seven_Network_logo.svg.png",Channel 7
 https://npc.cdn.7livecloud.io/hls/live/SYD1/masterSD.m3u8
-#EXTINF:-1 tvg-name="7TWO" tvg-id="7TWO.au" tvg-logo="",7 TWO
+#EXTINF:-1 tvg-name="7TWO" tvg-id="7TWO.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/1920px-7two_logo_2020.svg.png",7 TWO
 https://npc.cdn.7livecloud.io/hls/live/SYD2/masterSD.m3u8
-#EXTINF:-1 tvg-name="7 Mate" tvg-id="7MATE.au" tvg-logo="",7 Mate
+#EXTINF:-1 tvg-name="7 Mate" tvg-id="7MATE.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/1920px-7mate_logo_2020.svg.png",7 Mate
 https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
-#EXTINF:-1 tvg-name="7 flix" tvg-id="7FLIX.au" tvg-logo="",7flix
+#EXTINF:-1 tvg-name="7 flix" tvg-id="7FLIX.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/1920px-7flix_logo_2020.svg.png",7flix
 https://npc.cdn.7livecloud.io/hls/live/SYD6/masterSD.m3u8
-#EXTINF:-1 tvg-name="Channel 9" tvg-id="CHANNEL9.au" tvg-logo="",Channel 9
+#EXTINF:-1 tvg-name="Channel 9" tvg-id="CHANNEL9.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png",Channel 9
 https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
-#EXTINF:-1 tvg-name="9Gem" tvg-id="9GEM.au" tvg-logo="",9Gem
+#EXTINF:-1 tvg-name="9Gem" tvg-id="9GEM.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
-#EXTINF:-1 tvg-name="9Go!" tvg-id="9GO.au" tvg-logo="",9Go!
+#EXTINF:-1 tvg-name="9Go!" tvg-id="9GO.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/9Go%21_logo.png",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
-#EXTINF:-1 tvg-name="9Life" tvg-id="9LIFE.au" tvg-logo="",9Life
+#EXTINF:-1 tvg-name="9Life" tvg-id="9LIFE.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png",9Life
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
-#EXTINF:-1 tvg-name="9Rush" tvg-id="9RUSH.au" tvg-logo="",9Rush
+#EXTINF:-1 tvg-name="9Rush" tvg-id="9RUSH.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png",9Rush
 https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
-#EXTINF:-1 tvg-name="Channel 10" tvg-id="CHANNEL10.au" tvg-logo="",Channel 10
-https://live.10play.com.au/10NSW/stream.m3u8
-#EXTINF:-1 tvg-name="SBS ONE" tvg-id="SBSONE.au" tvg-logo="",SBS ONE
+#EXTINF:-1 tvg-name="Channel 10" tvg-id="CHANNEL10.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Network_Ten_2008.png",Channel 10
+https://i.mjh.nz/10-nsw.m3u8
+#EXTINF:-1 tvg-name="SBS ONE" tvg-id="SBSONE.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/1920px-SBS_Australia_Logo_%282019%29.svg.png",SBS ONE
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
-#EXTINF:-1 tvg-name="SBS Food" tvg-id="SBSFOOD.au" tvg-logo="",SBS Food
+#EXTINF:-1 tvg-name="SBS Food" tvg-id="SBSFOOD.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/SBS_Food_logo.svg/1920px-SBS_Food_logo.svg.png",SBS Food
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
-#EXTINF:-1 tvg-name="Adult Swim" tvg-id="ADULTSWIM.us" tvg-logo="",Adult Swim
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
 
