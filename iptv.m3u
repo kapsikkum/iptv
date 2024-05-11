@@ -25,6 +25,10 @@ https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
 #EXTINF:-1 tvg-name="Channel 10" tvg-id="10Sydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Network_Ten_2008.png",Channel 10
 https://i.mjh.nz/10-nsw.m3u8
+#EXTINF:-1 tvg-name="10 Peach" tvg-id="10PeachSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/530px-10_Peach_logo_2018.svg.png?20230327000501",10 Peach
+https://i.mjh.nz/10peach-nsw.m3u8
+#EXTINF:-1 tvg-name="10 Bold" tvg-id="10BoldSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/10_Bold_2018.svg/1920px-10_Bold_2018.svg.png",10 Bold
+https://i.mjh.nz/10bold-nsw.m3u8
 #EXTINF:-1 tvg-name="SBS ONE" tvg-id="SBSONE.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/1920px-SBS_Australia_Logo_%282019%29.svg.png",SBS ONE
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
 #EXTINF:-1 tvg-name="SBS Food" tvg-id="SBSFOOD.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/SBS_Food_logo.svg/1920px-SBS_Food_logo.svg.png",SBS Food
