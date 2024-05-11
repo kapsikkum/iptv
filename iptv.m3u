@@ -15,13 +15,13 @@ https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
 https://npc.cdn.7livecloud.io/hls/live/SYD6/masterSD.m3u8
 #EXTINF:-1 tvg-name="Channel 9" tvg-id="Channel9Sydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png",Channel 9
 https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
-#EXTINF:-1 tvg-name="9Gem" tvg-id="9GEM.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem
+#EXTINF:-1 tvg-name="9Gem" tvg-id="9GemSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
-#EXTINF:-1 tvg-name="9Go!" tvg-id="9GO.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/9Go%21_logo.png",9Go!
+#EXTINF:-1 tvg-name="9Go!" tvg-id="9GoSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/9Go%21_logo.png",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
-#EXTINF:-1 tvg-name="9Life" tvg-id="9LIFE.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png",9Life
+#EXTINF:-1 tvg-name="9Life" tvg-id="9LifeSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png",9Life
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
-#EXTINF:-1 tvg-name="9Rush" tvg-id="9RUSH.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png",9Rush
+#EXTINF:-1 tvg-name="9Rush" tvg-id="9RushSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png",9Rush
 https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
 #EXTINF:-1 tvg-name="Channel 10" tvg-id="10Sydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Network_Ten_2008.png",Channel 10
 https://i.mjh.nz/10-nsw.m3u8
@@ -29,8 +29,8 @@ https://i.mjh.nz/10-nsw.m3u8
 https://i.mjh.nz/10peach-nsw.m3u8
 #EXTINF:-1 tvg-name="10 Bold" tvg-id="10BoldSydney.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/10_Bold_2018.svg/1920px-10_Bold_2018.svg.png",10 Bold
 https://i.mjh.nz/10bold-nsw.m3u8
-#EXTINF:-1 tvg-name="SBS ONE" tvg-id="SBSONE.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/1920px-SBS_Australia_Logo_%282019%29.svg.png",SBS ONE
+#EXTINF:-1 tvg-name="SBS" tvg-id="SBS.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/1920px-SBS_Australia_Logo_%282019%29.svg.png",SBS
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
-#EXTINF:-1 tvg-name="SBS Food" tvg-id="SBSFOOD.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/SBS_Food_logo.svg/1920px-SBS_Food_logo.svg.png",SBS Food
+#EXTINF:-1 tvg-name="SBS Food" tvg-id="SBSFood.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/SBS_Food_logo.svg/1920px-SBS_Food_logo.svg.png",SBS Food
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
 
